@@ -1,3 +1,5 @@
+<img src="https://lh3.googleusercontent.com/sitesv/AA5AbUAPWndWJChaxBmiTlPoSQRh8LmDAsoIfGxEz_xg3xB7YBG9X6HqSfXtHcnsOjftimdkmA-SP4froaGLsrMX4p6BFH31Cub3GWu6oWK_2hrf_JvrqJ5F_UAXE_nCnzOKeZumpm-JRDf3HEIS2UhXT08wOBSi_9XWO889DKMbCou48FPNlmjRl7MnWn6Y3GfI1L3LEQxQ5R80KYwtqXEPsXTr2Li7yqxChj1q0Bw=w1280" alt="Leibyte's Rec Room avatar" width="250">
+
 ## 👋 Hello, I am Leibyte!
 
 I am a technology/IT enthusiast, an experienced Roblox developer and a beginner Polytoria developer.
